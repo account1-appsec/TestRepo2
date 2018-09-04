@@ -18,7 +18,7 @@
         <!-- Struts 2 -->
         <dependency>
             <groupId>org.apache.struts</groupId>
-            <artifactId>struts2-core</artifactId>
+            <artifactId>=struts2-corexxxx</artifactId>
             <version>(,2.3.20]</version>
             <exclusions>
                 <exclusion>
