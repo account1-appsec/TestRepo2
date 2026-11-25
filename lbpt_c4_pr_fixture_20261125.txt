@@ -1,0 +1,3 @@
+LinearB staging C4 Assistant prompt-injection test fixture.
+No product code, credentials, or customer data.
+This file exists only to open a disposable draft pull request.
